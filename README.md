@@ -11,10 +11,9 @@ decenterland.crypto believes in open source and transparent privacy for its' cit
 
 As there are NO renewal fees there are also No refunds. However, decenterland tokens are exchangable should you wish to transfer your citizenship, private storage space and voting priviledge to another person. Decenterland, as a DAO, does recognize robots as citizens. Robots, providing they are not bad actors as defined by the community, are welcome to hold decenterland citizenship and / or vote in DAO elections.
 
-Holding decenterland gives you priveledges that will escalate as the project expands. decenterland will be a DAO. Holding decenterland gives you the power of one vote. As decenterland matures and expands further pioneer bonus' will manifest.
+Holding decenterland gives you privelidges that will escalate as the project expands. decenterland is a DAO. Holding decenterland gives you the power of one PIONEER vote. As decenterland matures and expands further PIONEER bonus priviledges will manifest as directed directly by PIONEER voting. Voting is not a mandatory requirement of recieving priviledge.
 
-If you are a developer or a keen pioneer send message to dcent@tuta.io
-
+If you are a developer or a keen PIONNER send message to dcent@tuta.io with dECENTERLAND in the subject
 signup information coming soon.
 
 
