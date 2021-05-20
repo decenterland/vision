@@ -9,7 +9,7 @@ As there are NO renewal fees there are also No refunds. However, decenterland to
 
 Holding decenterland gives you priveledges that will escalate as the project expands. decenterland will be a DAO. Holding decenterland gives you the power of one vote. As decenterland matures and expands further pioneer bonus' will manifest.
 
-If you are a developer or a keep pioneer send a message to dcent@tuta.io
+If you are a developer or a keen pioneer send message to dcent@tuta.io
 
 signup information coming soon.
 
