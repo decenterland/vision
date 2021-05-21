@@ -3,7 +3,7 @@
 decenterland.crypto
 ###################
 
-has been claimed in the Ethereum Virtual Machine. first IPFS instance of decenterland.crypto is now viewable using BRAVE browser, Opera Browser natively or Chrome browser with unstoppable extension.
+has been claimed in the Ethereum Virtual Machine. IPFS instance of decenterland.crypto is now viewable using BRAVE browser, Opera Browser natively or Chrome browser with unstoppable extension.
 
 ###################
 decenterland.crypto
