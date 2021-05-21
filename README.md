@@ -1,5 +1,6 @@
 # vision
 organisational thoughts on the structure of dECENTERLAND
+first instance of decenterland.crypto is viewable using BRAVE browser, Opera Browser natively or Chrome browser with unstoppable extension.
 
 dECENTERLAND is the first of 12 projects being created by DAONOW. There will only ever be 13 tier one DAONOW tokens in existence with 1 DAONOW token representing 1 DAONOW in and of itself. 1 DAONOW token is being held to represents the organizational structure of decenterland aka dCENTERLAND aka decenterland.crypto
 
