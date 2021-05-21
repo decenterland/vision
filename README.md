@@ -2,11 +2,17 @@
 organisational thoughts on the structure of dECENTERLAND
 first instance of decenterland.crypto is viewable using BRAVE browser, Opera Browser natively or Chrome browser with unstoppable extension.
 
+decenterland.crypto
+
 dECENTERLAND is the first of 12 projects being created by DAONOW. There will only ever be 13 tier one DAONOW tokens in existence with 1 DAONOW token representing 1 DAONOW in and of itself. 1 DAONOW token is being held to represent the organizational structure of decenterland aka dCENTERLAND aka decenterland.crypto
 
 dECENTERLAND is a private island inside of the ethereum virtual machine. For now, the decenterland economy is utilizing the Algorand atomic swap chain. Work is being done at the spintrade project with Polygon and moonbeam to create cross chain asset exchange. The island of dECENTERLAND has a private system of value exchange. To become a member of decenterland requires holding of the decenterland ASA. The total supply of PIONEER dECENTERLAND tokens is 200000. Holding 1 decenterland token creates citizenship entitling you to 1/200000 of the entire decenterland island private storage space, 1/200000 forever. There will never be a renewal fee for PIONEERS. PIONEERS, in exchange for 1 Algo recieve LIFETIME membership and LIFETIME private storage space on the private island of decenterland.crypto
 
-in a sense, dCENTERLAND island can be conceptualized as an island of safety deposit boxes. 1 DCTR token represents 1 exchangable dCENTRALAND citizenship (aka membership) representing one virtual safety deposit box, one vote in the dCENTERLAND DAO FOREVER.
+CONCEPT
+dCENTERLAND island is conceptualized as an island of safety deposit boxes. Like pirate tresure, data can be "burried" in dCENTERLAND and later retrieved.
+1 dCENTERLAND token represents 1 virtual encrypted storage folder.dCENTERLAND can also be conceptualized as an encrypted storage holding community.
+
+1 DCTR token represents 1 exchangable dCENTRALAND citizenship (aka membership) representing one virtual safety deposit box and one vote in the dCENTERLAND DAO FOREVER.
 
 Provisions in the DAO stipulate that after all 200000 PIONEER citizenships enter circulation the island of decenterland.crypto will create a second tier of citizenship. Second tier citizen voting will not affect pioneer tier voting. Maximum rewards will be distributed to PIONEER citizens as grandfathered and grandmothered into the DAO itself. As explained above, your citizenship in decenterland will NEVER EXPIRE and can be value transfered like any other exchangable NFT asset.
 
@@ -25,7 +31,16 @@ note: decenterland is not decentraland. decenterland is a value storage system t
 ASA assets on Algorand Explorer
 decenterland DCTR
 https://algoexplorer.io/asset/224157825
-dFOUNDER dFND
-https://algoexplorer.io/asset/224157825
+
 DAONOW DAONOW
 https://algoexplorer.io/asset/222426078
+
+PRESALE
+as a presale token dCENTERLAND is offering investment in the staking of dFOUNDER tokens where only 100 dFOUNDER tokens will ever exist.
+https://algoexplorer.io/asset/224157825
+dFOUNDER dFND
+
+dFOUNDER tokens will provide liquidity rewards from the spintrade.me spintrade.xyz spintrade.crypto spintrade.zil https://github.com/spintrade 
+
+spintrade SPNTR
+https://algoexplorer.io/asset/205332172
