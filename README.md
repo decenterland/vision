@@ -37,10 +37,12 @@ https://algoexplorer.io/asset/222426078
 
 PRESALE
 as a presale token dCENTERLAND is offering investment in the staking of dFOUNDER tokens where only 100 dFOUNDER tokens will ever exist.
-https://algoexplorer.io/asset/224157825
-dFOUNDER dFND
 
-dFOUNDER tokens will provide liquidity rewards from the spintrade.me spintrade.xyz spintrade.crypto spintrade.zil https://github.com/spintrade 
+dFOUNDER dFND
+https://algoexplorer.io/asset/224157825
+
+
+dFOUNDER tokens holders will be provided liquidity rewards from the spintrade.me spintrade.xyz spintrade.crypto spintrade.zil https://github.com/spintrade project at launch.
 
 spintrade SPNTR
 https://algoexplorer.io/asset/205332172
