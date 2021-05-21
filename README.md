@@ -23,8 +23,7 @@ dCENTERLAND island is conceptualized as an island of safety deposit boxes. Like 
 1 DCTR token represents 1 exchangable dCENTRALAND citizenship (aka membership) representing one virtual safety deposit box and one vote in the dCENTERLAND DAO FOREVER.
 
 ###################
-Provisions in the DAO stipulate that after all 200000 PIONEER citizenships enter circulation the island of decenterland.crypto will create a second tier of citizenship. Second tier (user) citizen voting will not affect pioneer tier voting. Maximum rewards will be distributed to PIONEER citizens as grandfathered and grandmothered into the DAO itself. As explained above, your citizenship in decenterland will NEVER EXPIRE and can be value transfered like any other exchangable NFT asset.
-
+Provisions in the DAO stipulate that after all 200000 PIONEER citizenships enter circulation the island of decenterland.crypto will create a second tier of citizenship. Second tier (user) citizen voting will not affect pioneer tier voting. User level citizen signup fee cost will be decided by a community vote after the signup of the 175000th PIONEER. Maximum rewards will be distributed to PIONEER citizens as grandfathered and grandmothered into the DAO itself. As explained above, your citizenship in decenterland will NEVER EXPIRE and can be value transfered like the key to any other exchangable NFT asset. Exchange of the dCENTERLAND private key does not require a subsequent signup. Access to the key requires an Algorand wallet where 1 Algorand = 1 dCENTERLAND = 1 key
 ###################
 decenterland.crypto believes in open source and transparent privacy for its' citizens. Thanks to the hard work, toils and several thousands of programming hours by active developers over the last 30 years privacy in decenterland has finally become reality.
 
