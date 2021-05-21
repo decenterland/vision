@@ -29,6 +29,7 @@ signup information coming soon.
 note: decenterland is not decentraland. decenterland is a value storage system that is compatiable with decentraland. As an island of exchange, decenterland has teamed up with DAONOW, nftxchanges and spintrade.
 
 ASA assets on Algorand Explorer
+
 decenterland DCTR
 https://algoexplorer.io/asset/224157825
 
