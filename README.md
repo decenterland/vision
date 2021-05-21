@@ -15,9 +15,12 @@ dECENTERLAND is the first of 12 projects being created by DAONOW. There will onl
 dECENTERLAND is a private island inside of the ethereum virtual machine. For now, the decenterland economy is utilizing the Algorand atomic swap chain. Work is being done at the spintrade project with Polygon and moonbeam to create cross chain asset exchange. The island of dECENTERLAND has a private system of value exchange. To become a member of decenterland requires holding of the decenterland ASA. The total supply of PIONEER dECENTERLAND tokens is 200000. Holding 1 decenterland token creates citizenship entitling you to 1/200000 of the entire decenterland island private storage space, 1/200000 forever. There will never be a renewal fee for PIONEERS. PIONEERS, in exchange for 1 Algo recieve LIFETIME membership and LIFETIME private storage space on the private island of decenterland.crypto
 
 ###################
-CONCEPT
-dCENTERLAND island is conceptualized as an island of safety deposit boxes. Like pirate tresure, data can be "burried" in dCENTERLAND and later retrieved.
-1 dCENTERLAND token represents 1 virtual encrypted storage folder.dCENTERLAND can also be conceptualized as an encrypted storage holding community.
+CONCEPTUALIZATION
+###################
+
+dCENTERLAND island is conceptualized as an island of safety deposit boxes. Like pirate tresure, data can be "buried" in dCENTERLAND and later retrieved. Your private key then is both the map to where your treasure is burried and the key that opens the buried data.
+
+1 dCENTERLAND token represents 1 virtual encrypted storage folder. For that reason, dCENTERLAND can also be conceptualized as an encrypted storage holding community.
 
 ###################
 1 DCTR token represents 1 exchangable dCENTRALAND citizenship (aka membership) representing one virtual safety deposit box and one vote in the dCENTERLAND DAO FOREVER.
