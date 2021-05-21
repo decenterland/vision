@@ -3,8 +3,7 @@
 decenterland.crypto
 ###################
 
-has been claimed in the Ethereum Virtual Machine. IPFS instance of decenterland.crypto is now viewable using BRAVE browser, Opera Browser natively or Chrome browser with unstoppable extension.
-
+has been claimed inside the Ethereum Virtual Machine. IPFS instance of decenterland.crypto is now viewable using BRAVE browser, Opera Browser natively or Chrome browser with unstoppable extensionion
 ###################
 decenterland.crypto
 ###################
@@ -23,7 +22,7 @@ dCENTERLAND island is conceptualized as an island of safety deposit boxes. Like 
 1 DCTR token represents 1 exchangable dCENTRALAND citizenship (aka membership) representing one virtual safety deposit box and one vote in the dCENTERLAND DAO FOREVER.
 
 ###################
-Provisions in the DAO stipulate that after all 200000 PIONEER citizenships enter circulation the island of decenterland.crypto will create a second tier of citizenship. Second tier citizen voting will not affect pioneer tier voting. Maximum rewards will be distributed to PIONEER citizens as grandfathered and grandmothered into the DAO itself. As explained above, your citizenship in decenterland will NEVER EXPIRE and can be value transfered like any other exchangable NFT asset.
+Provisions in the DAO stipulate that after all 200000 PIONEER citizenships enter circulation the island of decenterland.crypto will create a second tier of citizenship. Second tier (user) citizen voting will not affect pioneer tier voting. Maximum rewards will be distributed to PIONEER citizens as grandfathered and grandmothered into the DAO itself. As explained above, your citizenship in decenterland will NEVER EXPIRE and can be value transfered like any other exchangable NFT asset.
 
 ###################
 decenterland.crypto believes in open source and transparent privacy for its' citizens. Thanks to the hard work, toils and several thousands of programming hours by active developers over the last 30 years privacy in decenterland has finally become reality.
@@ -32,7 +31,7 @@ decenterland.crypto believes in open source and transparent privacy for its' cit
 As there are NO renewal fees in dCENTRALAND there are also No refunds in dCENTRALAND. However, dCENTRALAND tokens are exchangable should you wish to transfer your citizenship, private storage space and voting priviledge to another person. Decenterland, as a DAO, does recognize robots as citizens. Robots, providing they are not bad actors as defined by the community, are welcome to hold decenterland citizenship and / or vote in DAO elections.
 
 ###################
-Holding decenterland gives you privelidges that will escalate as the project expands. decenterland is a DAO. Holding decenterland gives you the power of one PIONEER vote. As decenterland matures and expands further PIONEER bonus priviledges will manifest as directed directly by PIONEER voting. Voting is not a mandatory requirement of recieving priviledge.
+Holding decenterland gives you privelidges that will escalate as the project expands. decenterland is a DAO. Holding decenterland gives you the power of one PIONEER vote. As decenterland matures and expands further PIONEER bonus priviledges will manifest as directed directly by PIONEER voting. Voting is not a mandatory requirement of recieving priviledge. Voting is both a reward in and of itself and incentivized with rewards distributed after voting.
 
 ###################
 If you are a developer or a keen PIONNER send message to dcent@tuta.io with dECENTERLAND in the subject
