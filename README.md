@@ -72,6 +72,11 @@ dFOUNDER dFND
 https://algoexplorer.io/asset/224157825
 
 ###################
+
+dBANKER DBNKR
+https://algoexplorer.io/asset/224156269
+
+###################
 as a bonus dFOUNDER tokens holders will be provided liquidity rewards from the spintrade.me spintrade.xyz spintrade.crypto spintrade.zil https://github.com/spintrade project at launch where 1 dFOUNDER=1spintradeFOUNDER
 
 ###################
