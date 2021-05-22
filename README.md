@@ -14,6 +14,8 @@ dECENTERLAND is the first of 12 projects being created by DAONOW. There will onl
 ###################
 dECENTERLAND is a private island inside of the ethereum virtual machine. For now, the decenterland economy is utilizing the Algorand atomic swap chain. Work is being done at the spintrade project with Polygon and moonbeam to create cross chain asset exchange. The island of dECENTERLAND has a private system of value exchange. To become a member of decenterland requires holding of the decenterland ASA. The total supply of PIONEER dECENTERLAND tokens is 200000. Holding 1 decenterland token creates citizenship entitling you to 1/200000 of the entire decenterland island private storage space, 1/200000 forever. There will never be a renewal fee for PIONEERS. PIONEERS, in exchange for 1 Algo recieve LIFETIME membership and LIFETIME private storage space on the private island of decenterland.crypto
 
+To travel the private island of decenterland.crypto requires that you carry your passport. Loss of the passport = loss of travel privilege FOREVER.
+
 ###################
 CONCEPTUALIZATION
 ###################
