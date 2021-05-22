@@ -2,6 +2,9 @@
 ###################
 decenterland.crypto
 ###################
+dCENTERLAND dmarketing token
+https://algoexplorer.io/asset/223046455
+###################
 
 has been claimed inside the Ethereum Virtual Machine. IPFS instance of decenterland.crypto is now viewable using BRAVE browser, Opera Browser natively or Chrome browser with unstoppable extensionion
 
