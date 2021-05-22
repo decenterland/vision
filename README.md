@@ -31,7 +31,7 @@ To travel the private island of decenterland.crypto requires that you carry your
 CONCEPTUALIZATION
 ###################
 
-dCENTERLAND island is conceptualized as an island of safety deposit boxes. Like pirate tresure, data can be "buried" in dCENTERLAND and later retrieved. Your private key then is both the map to where your treasure is burried and the key that opens the buried data.
+dCENTERLAND island is conceptualized as an island of safety deposit boxes. Like pirate treasure, data can be "buried" in dCENTERLAND and later retrieved. Your private key then is both the map to where your treasure is burried and the key that opens the buried data.
 
 1 dCENTERLAND token represents 1 virtual encrypted storage folder. For that reason, dCENTERLAND can also be conceptualized as an encrypted storage holding community.
 
@@ -58,7 +58,7 @@ If you are a developer or a keen PIONNER send message to dcent@tuta.io with dECE
 signup information coming soon.
 
 ###################
-note: decenterland is not decentraland. decenterland is a value storage system that is compatiable with decentraland. As an island of exchange, decenterland has teamed up with DAONOW, nftxchanges.zil and spintrade.crypto
+note: decenterland is not decentraland. decenterland is a value storage system that is compatiable with and exchangeable inside of decentraland. As an island of exchange, decenterland has teamed up with DAONOW, nftxchanges.zil and spintrade.crypto
 
 ###################
 ASA assets on Algorand Explorer
