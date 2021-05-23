@@ -54,11 +54,11 @@ As there are NO renewal fees in dCENTRALAND there are also No refunds in dCENTRA
 Holding decenterland gives you privelidges that will escalate as the project expands. decenterland is a DAO. Holding decenterland gives you the power of one PIONEER vote. As decenterland matures and expands further PIONEER bonus priviledges will manifest as directed directly by PIONEER voting. Voting is not a mandatory requirement of recieving priviledge. Voting is both a reward in and of itself and incentivized with rewards distributed after voting.
 
 ###################
-If you are a developer or a keen PIONNER send message to dcent@tuta.io with dECENTERLAND in the subject
+If you are a developer or a keen PIONEER send message to dcent@tuta.io with dECENTERLAND in the subject
 signup information coming soon.
 
 ###################
-note: decenterland is not decentraland. decenterland is a value storage system that is compatiable with and exchangeable inside of decentraland. As an island of exchange, decenterland has teamed up with DAONOW, nftxchanges.zil and spintrade.crypto
+note: dDENTERLAND is not decentraland. dCENTERLAND is a value storage system that is compatiable with and exchangeable inside of decentraland. dCENTERLAND is an island of virtual private treasure storage. dCENTERLAND has teamed up with DAONOW, nftxchanges.zil and spintrade.crypto to facilitate goverance and offshore trades in the islands of spintrade.crypto nftxchanges.zil and the machine learning island of cryptobotml.crypto
 
 ###################
 ASA assets on Algorand Explorer
