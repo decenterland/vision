@@ -14,6 +14,8 @@ decenterland.crypto
 NOW AND FOREVER
 ###################
 
+centerland.xyz with be a bridge from the centralized web to the decentralized ipfs storage space
+
 dECENTERLAND is the first of 12 projects being created by DAONOW. There will only ever be 13 tier one DAONOW tokens in existence with 1 DAONOW token representing 1 DAONOW in and of itself. 1 DAONOW token is being held to represent the organizational structure of decenterland aka dCENTERLAND aka decenterland.crypto
 
 ###################
@@ -93,3 +95,26 @@ https://algoexplorer.io/asset/205332172
 spintrade is a cross chain DEX and liquidity pool
 
 dcent@tuta.io
+
+
+###########################################
+
+definition of decenter
+de·cen·ter
+/ˌdēˈsen(t)ər/
+Learn to pronounce
+verb
+verb: decentre; 3rd person present: decentres; past tense: decentred; past participle: decentred; gerund or present participle: decentring; verb: decenter; 3rd person present: decenters; past tense: decentered; past participle: decentered; gerund or present participle: decentering; verb: de-centre; 3rd person present: de-centres; past tense: de-centred; past participle: de-centred; gerund or present participle: de-centring; verb: de-center; 3rd person present: de-centers; past tense: de-centered; past participle: de-centered; gerund or present participle: de-centering
+
+    displace from the center or from a central position.
+        remove or displace (the individual human subject, such as the author of a text) from a primary place or central role.
+        to shift away from traditional center, focus or orientation.to disconnect from practical or theoretical assumptions or origin, priority or essence
+
+#####################
+# dCENTERLAND #######
+# NOW AND FOREVER ###
+# dcenterland.crypto --> centerland.xyz
+# centerland.xyz --> decenterland.crypto
+# dcent@tuta.io #####
+#####################
+#################
